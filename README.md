@@ -30,9 +30,4 @@ An end-to-end **multimodal AI system** that conducts **adaptive technical interv
   - Aggregated scores and grade
   - Strengths, improvements, and recommendations
 
----
-
-## 🧠 System Overview
-
-### High-Level Flow
 
